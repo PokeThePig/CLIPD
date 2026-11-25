@@ -33,7 +33,7 @@ function App() {
           <h2>Cinema List Interactive Picking Device</h2>
 
           <p>
-            An unofficial tool for building ranked lists Letterboxd.
+            An unofficial tool for building ranked lists on Letterboxd.
           </p>
         </section>
 
